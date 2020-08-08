@@ -1,0 +1,4 @@
+C:\Users\kirak\source\repos\CockTailAssignment\CockTailAssignment\obj\Debug\netcoreapp3.1\CockTailAssignment.csprojAssemblyReference.cache
+C:\Users\kirak\source\repos\CockTailAssignment\CockTailAssignment\obj\Debug\netcoreapp3.1\CockTailAssignment.AssemblyInfoInputs.cache
+C:\Users\kirak\source\repos\CockTailAssignment\CockTailAssignment\obj\Debug\netcoreapp3.1\CockTailAssignment.AssemblyInfo.cs
+C:\Users\kirak\source\repos\CockTailAssignment\CockTailAssignment\bin\Debug\netcoreapp3.1\CockTailAssignment.exe
